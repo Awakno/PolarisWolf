@@ -1,12 +1,6 @@
 <h2> Hey there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; Je Suis Un Développeur
-- 🤔 &nbsp; Je Connais plusieurs language
-- 🎓 &nbsp; Je Suis Pas actif sur github
-- 💼 &nbsp; Je Developpe surtout du front-end
 
 
 <h3>🛠 Tech Stack</h3>
@@ -25,6 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarisWolf&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/PolarisWolf/github-readme-stats)
 
-
+I love AI
+[![Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 ----
