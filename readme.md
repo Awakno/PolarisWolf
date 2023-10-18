@@ -17,7 +17,7 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarisWolf&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/PolarisWolf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakno&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Awakno/github-readme-stats)
 
 I love AI
 [![Codeium](https://codeium.com/badges/main)](https://codeium.com)
